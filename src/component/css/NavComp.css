@@ -1,0 +1,24 @@
+.bottom-nav{
+    background-color: rgb(243, 243, 243);
+    color: black;
+}
+
+.bottom-nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+
+.brand{
+    color:green;
+    font-family:Monospace;
+    font-weight:10px;
+    font-size: 24px;
+}
+
+.brand span{
+    color:black;
+}
+
+.home{
+font-size: 17px;
+}

@@ -1,0 +1,82 @@
+
+.title-bg
+{
+    background-image: url("/src/component/img/3Wft.gif");
+    background-size: cover;
+    background-clip:content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+}
+.left-div
+{
+    left: 0;
+    background-color: rgb(194, 200, 250);
+    width: 40%;
+}
+
+.right-div
+{
+    right: 0;
+    width: 60%;
+}
+
+
+.split{
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+.left-content
+{
+    padding-top: 15%;
+}
+
+.left-socialmedia
+{
+    padding-top: 60%;
+}
+
+.twitter-svg{
+    background-color: skyblue;
+   
+}
+
+
+.right-img
+{
+    height:400px;
+    width: 600px;
+}
+
+.right-title h1{
+    padding: 25px;
+}
+
+.btn-txt{
+    padding: 40px 90px 40px;
+    font-size:20px;
+
+}
+
+.btn-hire{
+    background-color: palegreen;
+    /* border: 1px solid rgb(82, 82, 82); */
+    height: 60px;
+}
+.btn-work{
+    background-color: aliceblue;
+    /* border: 1px solid rgb(82, 82, 82); */
+    height: 60px;
+
+}
+
+button:hover{
+    background-color: rgb(194, 200, 250);
+}
+
+.btn-div{
+    padding: 20px;
+}
